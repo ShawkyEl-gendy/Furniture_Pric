@@ -18,4 +18,9 @@ note ==&gt; 0 means that the furniture is not rated
 
 * Scraping data.
 * Cleaning and exploring the data.
-* creating Dashboards by Tableau.
+* Creating Dashboards by Tableau.
+
+
+
+I uploaded the data on Kaggle and you can check it here: https://www.kaggle.com/datasets/shawkyelgendy/furniture-price-prediction?datasetId=3143167&sortBy=voteCount
+You can check my Tableau profile here: https://public.tableau.com/app/profile/shawky.el.gendy 
